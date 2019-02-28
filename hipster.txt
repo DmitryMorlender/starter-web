@@ -3,3 +3,5 @@ Lorem ipsum dolor amet blog letterpress kogi chambray, health goth everyday carr
 This is a new line
 
 This is another new line
+
+This is a line after we have staged this file
